@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @PalExpo
-- My Name is Anuraag Pal
 - 👀 I’m interested in Programming for Robots and AI+ML
-- 🌱 I’m currently pursuing Engineering and doing Robotics
+- 🌱 I’m currently pursuing Engineering and learning Robotics
