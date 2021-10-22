@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @PalExpo
-- 👀 I’m interested in Programming for Robots and AI+ML
-- 🌱 I’m currently pursuing Engineering and learning Robotics
-- I'm Now Learning Embedded Coding and Web Development...
+- 👋 Hi, I’m @PalExpo.
+- 👀 I’m interested in Programming for Robots and AI+ML.
+- 🌱 I’m currently pursuing Engineering and learning Robotics.
+- 🏫 I'm Now Learning Embedded Coding and Web Development.
+- 💭 U can Ask Me Anything specially on Computers and Physics.
