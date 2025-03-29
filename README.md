@@ -1,9 +1,20 @@
-![1-office-1516329_1920-1200x299](https://user-images.githubusercontent.com/92714171/138452764-37edd47f-4a30-42f1-9ea4-4ce6f5966408.jpg)
+# Hi there! 👋 I'm **Anuraag Pal**  
 
-- 👋 Hi, I’m <i><b>@PalExpo</b></i> - People know me as <b>Anuraag Pal</b>.
-- 👀 I’m interested in Programming for Robots and AI+ML.
-- 🌱 I’m currently pursuing Engineering and learning Robotics.
-- 🏫 I'm Now Learning Embedded Coding and Web Development.
-- 💭 U can Ask Me Anything specially on Computers and Physics.
-- 
-![High_resolution_wallpaper_background_ID_77701808100](https://user-images.githubusercontent.com/92714171/141797750-5c8816ef-6ca6-4279-be63-cbffa2c55ad3.jpg)
+🚀 **Embedded Firmware Engineer | Former ISRO Trainee | Robotics Enthusiast**  
+
+I specialize in **embedded systems, firmware development, and robotics**, with experience in **STM32, ESP32, ATMega, ARM Cortex-M7, and MSP430**. Passionate about **hardware-software integration, real-time systems, and innovative tech solutions**.  
+
+I primarily code in **C, C++, and Python**, but I can adapt to any programming language as I focus on **efficient coding practices and logical problem-solving**.  
+
+### 🔧 Skills & Technologies  
+- **Embedded Systems**: STM32, ESP32, ATMega, ARM Cortex-M7, MSP430  
+- **Programming**: C, C++, Python  
+- **Development Tools**: PlatformIO, STM32CubeIDE, Arduino IDE, MPLAB X IDE  
+- **Version Control & CI/CD**: Git, GitHub, Bitbucket, Jira, Confluence  
+- **OS & Scripting**: Linux, Shell Scripting  
+- **Communication Protocols**: UART, USART, SPI, I2C, MODBUS, RS485  
+- **Displays**: TFT Displays (SPI & UART-based)  
+
+### 📫 Let's Connect!  
+🔗 **LinkedIn**: [Anuraag Pal](https://www.linkedin.com/in/anuraag-pal-4b50921a8)  
+🔗 **GitHub**: [This GitHub of Mine]([https://github.com/PalExpo](https://github.com/PalExpo))  
