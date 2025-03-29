@@ -16,5 +16,4 @@ I primarily code in **C, C++, and Python**, but I can adapt to any programming l
 - **Displays**: TFT Displays (SPI & UART-based)  
 
 ### 📫 Let's Connect!  
-🔗 **LinkedIn**: [Anuraag Pal](https://www.linkedin.com/in/anuraag-pal-4b50921a8)  
-🔗 **GitHub**: [This GitHub of Mine]([https://github.com/PalExpo](https://github.com/PalExpo))  
+🔗 **LinkedIn**: [Anuraag Pal](https://www.linkedin.com/in/anuraag-pal-4b50921a8) 
